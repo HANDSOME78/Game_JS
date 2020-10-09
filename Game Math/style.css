@@ -1,0 +1,12 @@
+body{
+	background-color: blue;
+	padding: 0px;
+	margin: 0px;
+}
+.open{
+	padding: 5px;
+	font-size: 20px;
+	cursor: pointer;
+	border-radius: 10px;
+	
+}
